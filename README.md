@@ -354,7 +354,7 @@ Framework này có thể mở rộng cho:
 
 # 👨‍💻 Author
 
-**AIDEOM-VN Research Team**
+**Nguyen Thi Minh Anh**
 
 Research Project:
 
